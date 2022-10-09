@@ -55,8 +55,8 @@ export const InputLabel = styled.p`
 export const ColorInput = styled.input`
   height: 30px;
   width: 80px;
-  background-color: none;
-  padding: 0px;
+  background-color: transparent;
+  border: none;
 `
 export const GenerateButton = styled.button`
   font-size: 15px;
